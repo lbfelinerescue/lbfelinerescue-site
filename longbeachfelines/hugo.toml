@@ -1,4 +1,4 @@
 baseURL = 'https://www.longbeachfelines.org'
 languageCode = 'en-us'
 title = 'Long Beach Felines'
-theme = 'ananke'
+theme = 'spectral'
