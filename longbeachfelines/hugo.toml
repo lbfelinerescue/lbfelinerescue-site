@@ -34,9 +34,6 @@ style = "3"
 enable = true
 
 [[params.two.section]]
+img = "images/two/fgsc-exterior.jpg"
 title = 'Feline Good Social Club'
 body = "If you're a cat person, chances are you'll appreciate Long Beach's Feline Good Social Club. This unique establishment offers a space for cat lovers to relax and socialize with adoptable felines in a comfortable, home-like environment. With cozy seating areas, cat trees, and plenty of toys, the Feline Good Social Club is the perfect spot to unwind with some feline friends after a long day. Plus, by visiting and interacting with the cats, you may even be able to find your new furry companion!<br><br>At the heart of it all, home is where we can be ourselves and feel comfortable. For cats, a loving home is especially important, which is why organizations like Long Beach Felines are so vital. Whether you're looking to adopt a cat or simply spend some quality time with them, there's no denying that being around these beautiful creatures can make any place feel like home."
-
-[[params.two.icon]]
-icon = "fa-cat"
-style = "1"
