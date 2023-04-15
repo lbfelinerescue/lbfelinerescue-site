@@ -1,3 +1,6 @@
 [submodule "longbeachfelines/themes/spectral"]
 	path = longbeachfelines/themes/spectral
 	url = https://github.com/sbruder/spectral
+[submodule "longbeachfelines/themes/spectral-fork"]
+	path = longbeachfelines/themes/spectral-fork
+	url = https://github.com/djacu/spectral
