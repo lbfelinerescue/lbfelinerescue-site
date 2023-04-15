@@ -1,4 +1,42 @@
 baseURL = 'https://www.longbeachfelines.org'
-languageCode = 'en-us'
 title = 'Long Beach Felines'
-theme = 'spectral'
+languageCode = 'en-us'
+defaultContentLanguage = "en"
+paginate = "7"
+theme = 'spectral-fork'
+
+[params]
+fancyTitle = "Long Beach Felines"
+copyright = "Long Beach Felines"
+description = 'Giving cats and kittens a second chance'
+
+startbuttonText = "Donate Now ♥"
+startbuttonLink = "https://google.com"
+
+[params.one]
+enable = true
+title = 'About'
+body = "The friendly volunteers at Long Beach Felines work tirelessly to ensure that the cats are well-fed, groomed, and given plenty of love and attention. The shelter is always full of playful cats who are eagerly waiting to find their new families.<br><br>If you're looking to adopt a cat or just want to spend some time cuddling with these furry friends, then Long Beach Felines is certainly the place to go. And if you're unable to adopt a cat but still want to help, you can always give a donation or become a volunteer.<br><br>So whether you have a home filled with pets or are looking to add a new member to your family, consider visiting Long Beach Felines and giving these lovable cats the chance they deserve."
+
+[[params.one.icon]]
+icon = "fa-cat"
+style = "1"
+
+[[params.one.icon]]
+icon = "fa-shield-cat"
+style = "2"
+
+[[params.one.icon]]
+icon = "fa-paw"
+style = "3"
+
+[params.two]
+enable = true
+
+[[params.two.section]]
+title = 'Feline Good Social Club'
+body = "If you're a cat person, chances are you'll appreciate Long Beach's Feline Good Social Club. This unique establishment offers a space for cat lovers to relax and socialize with adoptable felines in a comfortable, home-like environment. With cozy seating areas, cat trees, and plenty of toys, the Feline Good Social Club is the perfect spot to unwind with some feline friends after a long day. Plus, by visiting and interacting with the cats, you may even be able to find your new furry companion!<br><br>At the heart of it all, home is where we can be ourselves and feel comfortable. For cats, a loving home is especially important, which is why organizations like Long Beach Felines are so vital. Whether you're looking to adopt a cat or simply spend some quality time with them, there's no denying that being around these beautiful creatures can make any place feel like home."
+
+[[params.two.icon]]
+icon = "fa-cat"
+style = "1"
