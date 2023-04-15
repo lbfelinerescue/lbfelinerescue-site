@@ -34,6 +34,15 @@ style = "3"
 enable = true
 
 [[params.two.section]]
+img = "images/two/cuddles.jpg"
+title = 'Our Mission'
+body = 'Long Beach Felines is a non-profit organization with the mission to rescue, protect and find loving homes for stray, abandoned, neglected and abused kittens and cats.  We promote the joys of the feline-human bond and strive to enrich the lives of both our rescued cats and their adopters by connecting the two.  Long Beach Felines is also committed to educating the public about responsible cat guardianship, general cat care, and the importance of spaying and neutering.'
+
+[[params.two.section]]
+title = 'Who We Are'
+body = "Long Beach Felines is an all-volunteer organization formalized in 2008 as a 501(c)(3) non-profit. Our founding members have over 20 years of combined cat rescue experience and have collectively placed hundreds of cats into loving homes.  We have no paid staff and receive no government funding.  We rely on fundraising efforts and private donations to support our cause and provide food, supplies and medical care for our cats. We are a no-kill organization that only euthanizes cats when it is medically deemed the only humane option."
+
+[[params.two.section]]
 img = "images/two/fgsc-exterior.jpg"
 title = 'Feline Good Social Club'
 body = "If you're a cat person, chances are you'll appreciate Long Beach's Feline Good Social Club. This unique establishment offers a space for cat lovers to relax and socialize with adoptable felines in a comfortable, home-like environment. With cozy seating areas, cat trees, and plenty of toys, the Feline Good Social Club is the perfect spot to unwind with some feline friends after a long day. Plus, by visiting and interacting with the cats, you may even be able to find your new furry companion!<br><br>At the heart of it all, home is where we can be ourselves and feel comfortable. For cats, a loving home is especially important, which is why organizations like Long Beach Felines are so vital. Whether you're looking to adopt a cat or simply spend some quality time with them, there's no denying that being around these beautiful creatures can make any place feel like home."
