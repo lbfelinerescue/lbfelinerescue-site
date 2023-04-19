@@ -5,6 +5,9 @@ defaultContentLanguage = "en"
 paginate = "7"
 theme = 'spectral-fork'
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [params]
 fancyTitle = "Long Beach Felines"
 copyright = "Long Beach Felines"

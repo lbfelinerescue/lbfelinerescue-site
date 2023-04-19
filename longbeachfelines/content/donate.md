@@ -4,14 +4,24 @@ date: 2023-04-17
 draft: false
 ---
 
-## Lorem Ipsum
+## Monetary Donations
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at vehicula sapien, ut luctus diam. Pellentesque cursus luctus tortor. Mauris ut congue odio. Nunc at ultrices felis, in consequat est. In aliquet pretium vehicula. Suspendisse ut dapibus leo, a accumsan nisl. Aenean id pulvinar elit, nec pellentesque lectus.
+Long Beach Felines is a non-profit organization dedicated to rescuing, rehabilitating, and rehoming cats in the Long Beach area. They have been working tirelessly to save the lives of cats who have been abandoned, neglected, or abused. They provide shelter, food, medical care, and love to cats in need, and they work hard to find loving homes for these felines.
 
-Duis a semper sem. Etiam vitae imperdiet urna. Phasellus sodales vulputate est, a porttitor metus. Praesent aliquam mi purus, sit amet sagittis massa ultrices et. Duis quis lacus risus. Maecenas iaculis ante sed libero ornare, egestas vestibulum magna tincidunt. Nam eleifend odio leo, id hendrerit enim hendrerit eget. Nullam ac libero ut arcu tincidunt fringilla. Vestibulum eu urna id felis porttitor feugiat. Nunc sit amet consectetur turpis. Suspendisse eget purus pulvinar, pharetra massa eget, sagittis dolor. Nulla sed magna commodo quam faucibus consectetur. Duis quam quam, pharetra eget ultricies sit amet, ullamcorper ac elit. Fusce blandit porttitor dui, sed ornare elit euismod sit amet. Integer quis leo vulputate, tincidunt turpis nec, ullamcorper eros. Nulla auctor tempus efficitur.
+However, running a cat rescue shelter is not easy, and they rely on the support of generous donors to keep their operations going. Every donation, no matter how small, can make a huge difference in the lives of these cats. Your donation will help provide food, medical care, and other necessities for the cats in their care.
 
-Fusce tempor pulvinar risus, id tempus leo consectetur placerat. Mauris scelerisque ut leo a lacinia. Ut ultricies ligula quis convallis venenatis. Morbi nisl libero, maximus hendrerit ante ut, bibendum lobortis neque. Suspendisse et ullamcorper dui. Nullam imperdiet turpis justo, vitae efficitur lectus tincidunt non. Quisque congue ante turpis, sit amet cursus neque ornare id. Aliquam urna sem, sagittis sit amet nibh porta, porta pretium massa. Ut auctor mi non sagittis porttitor. Praesent facilisis nisl eget metus ultrices, egestas fermentum augue vehicula. Donec nec molestie eros. Aenean non vulputate arcu. Sed ut ante et tellus pretium feugiat.
+By donating to Long Beach Felines, you can make a real impact on the lives of cats in need. Your donation can help save a life, and provide a safe and loving home for a cat who has nowhere else to go. Please consider making a donation today to support the important work that Long Beach Felines is doing. Your contribution can truly make a difference!
 
-Sed non purus ullamcorper ligula placerat mattis. Nam ornare eros quis augue ultricies, eget elementum velit gravida. Duis sodales molestie nibh, ut pharetra ex porta rhoncus. Nunc enim tellus, egestas eu egestas nec, pretium quis arcu. Ut a arcu sit amet libero viverra pellentesque. Morbi bibendum ac libero id ornare. Sed vulputate ligula a maximus vestibulum.
+<ul class="actions special">
+<li><a href="https://google.com" class="button primary">donate using paypal <i class="fa-brands fa-paypal"></i></a></li>
+</ul>
 
-In quis turpis vel ipsum lobortis rhoncus nec a arcu. Cras et nibh sapien. Aliquam pulvinar turpis nec neque convallis varius. Vivamus finibus, enim tincidunt euismod sagittis, velit risus hendrerit diam, eget ullamcorper elit quam eu felis. Morbi id lorem tortor. Curabitur et gravida elit. Maecenas eget ante eget sapien efficitur imperdiet sit amet vitae nibh. Nunc suscipit finibus risus a sodales. Nunc nibh tortor, blandit vel dolor eu, pretium sodales diam. Suspendisse ut neque malesuada, scelerisque elit ac, aliquam magna.
+## Wish List
+
+We also have an Amazon wish list containing items that are crucial to the daily operations of the shelter. These items include food, toys, litter, and medical supplies that are needed to care for the cats in their care.
+
+By purchasing items from the wish list, you can directly contribute to the well-being of these cats. Your donation will be put to use right away in caring for these animals, and you'll be supporting the important work that Long Beach Felines is doing to rescue, rehabilitate, and rehome cats in need.
+
+<ul class="actions special">
+<li><a href="https://smile.amazon.com/hz/wishlist/ls/1C3ESCOI48S3G?&sort=default" class="button primary">our amazon wish list <i class="fa-brands fa-amazon"></i></a></li>
+</ul>
