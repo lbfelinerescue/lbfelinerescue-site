@@ -34,7 +34,7 @@ url = '/volunteer/'
 title = "Volunteer"
 
 [[params.menu.main]]
-url = '/cat-care/'
+url = '/posts/'
 title = "Cat Care"
 
 [[params.menu.main]]
