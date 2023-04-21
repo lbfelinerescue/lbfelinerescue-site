@@ -14,11 +14,13 @@
     flake-utils.lib.eachDefaultSystem (
       system: let
         pkgs = nixpkgs.legacyPackages.${system};
+        prettier = pkgs.callPackage ./prettier.nix {};
       in {
         devShells.default = pkgs.mkShell {
           packages = [
             pkgs.alejandra
             pkgs.hugo
+            prettier
           ];
         };
       }

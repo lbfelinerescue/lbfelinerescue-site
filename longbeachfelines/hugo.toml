@@ -5,13 +5,43 @@ defaultContentLanguage = "en"
 paginate = "7"
 theme = 'spectral-fork'
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [params]
-fancyTitle = "Long Beach Felines"
+fancyTitle = '<img height="128" src="/images/logo.svg" alt="Logo"/><br />Long Beach Felines'
 copyright = "Long Beach Felines"
 description = 'Giving cats and kittens a second chance'
 
 startbuttonText = "Donate Now ♥"
 startbuttonLink = "https://google.com"
+
+# menu
+
+[[params.menu.main]]
+url = '/'
+title = "Home"
+pre = "<i class='fas fa-info'></i>"
+
+[[params.menu.main]]
+url = '/donate/'
+title = "Donate"
+pre = '<i class="fa-solid fa-code"></i>'
+
+
+[[params.menu.main]]
+url = '/volunteer/'
+title = "Volunteer"
+
+[[params.menu.main]]
+url = '/posts/'
+title = "Cat Care"
+
+[[params.menu.main]]
+url = '/contact/'
+title = "Contact"
+
+# sections
 
 [params.one]
 enable = true
