@@ -6,7 +6,7 @@ module.exports = {
     manifestBackgroundColor: '#663399',
     manifestThemeColor: '#663399',
     manifestDisplay: 'standalone',
-    manifestIcon: 'src/assets/images/website-icon.png',
+    manifestIcon: 'src/assets/images/website-icon.svg',
     // pathPrefix: `/gatsby-starter-spectral/`, // This path is subpath of your hosting https://domain/portfolio
     heading: 'Long Beach Feline Rescue ❤️',
     subHeading: 'Giving cats and kittens a second chance',
