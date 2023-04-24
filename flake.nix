@@ -22,26 +22,17 @@
         pkgs = nixpkgs.legacyPackages.${system};
         prettier = pkgs.callPackage ./prettier.nix {};
         npmlock2nix' = pkgs.callPackage npmlock2nix {};
-        npmbp = pkgs.callPackage nix-npm-buildpackage {};
-
-        gatsbydev = npmlock2nix'.v2.shell {
-          src = ./gatsby;
-        };
 
         gatsby-node-modules = npmlock2nix'.v2.node_modules {
           src = ./gatsby;
           nodejs = pkgs.nodejs;
         };
 
-        gatsby-build = npmlock2nix'.v2.build {
-          src = ./gatsby;
-          installPhase = "cp -r dist $out";
-          buildCommands = ["npm run build"];
-        };
-
-        gatsby-npmbp = npmbp.buildNpmPackage {
-          src = ./gatsby;
-          npmBuild = "npm run build";
+        gatsby = pkgs.writeShellApplication {
+          name = "gatsby";
+          text = ''
+            ${gatsby-node-modules}/bin/gatsby "$@"
+          '';
         };
       in {
         devShells.default = pkgs.mkShell {
@@ -49,8 +40,7 @@
             pkgs.alejandra
             pkgs.hugo
             prettier
-            #pkgs.nodePackages.gatsby-cli
-            gatsbydev
+            gatsby
           ];
         };
 
@@ -62,8 +52,7 @@
         };
 
         packages = {
-          inherit gatsbydev gatsby-node-modules gatsby-build;
-          inherit gatsby-npmbp;
+          inherit gatsby-node-modules;
         };
       }
     );
