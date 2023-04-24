@@ -6,7 +6,6 @@ import icon from "../assets/images/website-icon.svg"
 export default function SideBar({ fullMenu }) {
   const [headerOpen, toggleHeader] = useState(false)
   const handleMenuToggle = () => {
-    console.log(headerOpen)
     toggleHeader(!headerOpen)
   }
   return (

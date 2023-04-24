@@ -34,8 +34,8 @@ const DonatePage = () => (
           <p>
             By purchasing items from the wish list, you can directly contribute to the well-being of these cats. Your donation will be put to use right away in caring for these animals, and you'll be supporting the important work that Long Beach Felines is doing to rescue, rehabilitate, and rehome cats in need.
           </p>
-          <a href="https://smile.amazon.com/hz/wishlist/ls/1C3ESCOI48S3G?&sort=default" class="button primary">
-            our amazon wish list <i class="fa-brands fa-amazon"></i>
+          <a href="https://smile.amazon.com/hz/wishlist/ls/1C3ESCOI48S3G?&sort=default" className="button primary">
+            our amazon wish list <i className="fa-brands fa-amazon"></i>
           </a>
         </div>
       </section>

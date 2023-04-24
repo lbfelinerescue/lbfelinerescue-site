@@ -37,6 +37,7 @@
 	canvas, details, embed, figure, figcaption,
 	footer, header, hgroup, menu, nav, output, ruby,
 	section, summary, time, mark, audio, video {
+		scroll-behavior: smooth;
 		margin: 0;
 		padding: 0;
 		border: 0;
@@ -1159,7 +1160,7 @@
 		}
 
 		@for $i from 1 through _misc(max-spotlights) {
-			$j: 0.2 * $i;
+			$j: 0.3 * $i;
 
 			&:nth-child(#{$i}) {
 				background-color: rgba(0,0,0, $j);
