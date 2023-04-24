@@ -16,7 +16,7 @@ module.exports = {
         style: 'brands',
         icon: 'fa-github',
         name: 'Github',
-        url: 'https://github.com/djacu/longbeachfelines',
+        url: 'https://github.com/lbfelinerescue/lbfelinerescue-site',
       },
       {
         style: 'solid',

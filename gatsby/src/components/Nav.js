@@ -25,7 +25,10 @@ export default function Nav({ onMenuToggle }) {
                 <Link to="/Adopt">Adopt</Link>
               </li>
               <li>
-                <Link to="/Elements">Elements</Link>
+                <Link to="/Donate">Donate</Link>
+              </li>
+              <li>
+                <Link to="/Contact">Contact</Link>
               </li>
             </ul>
             <a
