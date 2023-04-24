@@ -22,10 +22,16 @@ export default function Nav({ onMenuToggle }) {
                 <Link to="/">Home</Link>
               </li>
               <li>
+                <Link to="/Donate">Donate</Link>
+              </li>
+              <li>
                 <Link to="/Adopt">Adopt</Link>
               </li>
               <li>
-                <Link to="/Donate">Donate</Link>
+                <Link to="/Foster">Foster</Link>
+              </li>
+              <li>
+                <Link to="/Volunteer">Volunteer</Link>
               </li>
               <li>
                 <Link to="/Contact">Contact</Link>

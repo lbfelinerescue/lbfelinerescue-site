@@ -6,11 +6,14 @@ import pic1 from '../assets/images/adopt_pic01.jpg'
 import pic2 from '../assets/images/adopt_pic02.jpg'
 import pic3 from '../assets/images/adopt_pic03.jpg'
 
-const IndexPage = () => (
+const AdoptPage = () => (
   <Layout fullMenu>
     <article id="main">
       <header>
-        <h2>Adopting a Cat</h2>
+        <h2>Adoption ❤️</h2>
+        <p>
+            Find your purr-fect match
+        </p>
       </header>
       <section id="two" className="wrapper alt style2">
       <section className="spotlight">
@@ -58,4 +61,4 @@ const IndexPage = () => (
   </Layout>
 );
 
-export default IndexPage;
+export default AdoptPage;
